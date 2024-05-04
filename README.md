@@ -18,3 +18,7 @@ The primary goal of this project is to build robust and accurate classifiers cap
 - Model Training: Training selected models using the preprocessed data and optimizing their hyperparameters to achieve optimal performance.
 - Model Evaluation: Assessing the performance of the trained models using cross-validation and testing on independent datasets to measure accuracy, precision, recall, and F1-score.
 - Deployment: Developing lightweight and efficient models suitable for deployment on smartphones, enabling real-time activity recognition on-device.
+
+
+## Conclusion:
+By providing a comprehensive framework for human activity recognition using smartphone data, this GitHub repository aims to facilitate research, development, and deployment of activity recognition systems in various domains. Join us in harnessing the power of machine learning and sensor technology to enhance human-computer interaction and improve quality of life.
