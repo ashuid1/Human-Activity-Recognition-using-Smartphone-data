@@ -1,3 +1,7 @@
+Note : Link of train data
+- https://drive.google.com/file/d/1_0bMWxgDv9m4LR6xWwOpf-vMq7mnovay/view?usp=drive_link
+
+
 # Human-Activity-Recognition-using-Smartphone-data
 
 The "Human-Activity-Recognition-using-Smartphone-data" GitHub repository hosts a project dedicated to developing machine learning models for recognizing human activities based on smartphone sensor data. This project is motivated by the growing interest in wearable technology and the potential applications in health monitoring, fitness tracking, and context-aware computing.
